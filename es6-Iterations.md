@@ -188,3 +188,5 @@ const requiredIndex = posts.map(p => p.id).indexOf(131);
 ```
 
 With all this data structure power, I hope your code will become more precise, crisp and maintainable. When a new dev joins the team (and doesn’t understands this sorcery, show them this post).
+
+> Most part of this page came from Shivek Khurana, thank you man.
